@@ -46,3 +46,8 @@ console.log(myObj, typeof myObj);
 console.log(value, typeof value);
 console.log(ud, typeof ud);
 console.log(id, typeof id);
+
+// ************************** MEMORY **************************
+
+// Stack (primitive), Heap (Non-primitive)
+
